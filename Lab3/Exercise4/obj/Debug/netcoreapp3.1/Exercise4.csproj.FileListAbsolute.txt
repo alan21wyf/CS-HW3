@@ -1,0 +1,12 @@
+D:\Antra\Homework\C#\HW3&4\Lab3\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.AssemblyInfoInputs.cache
+D:\Antra\Homework\C#\HW3&4\Lab3\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.AssemblyInfo.cs
+D:\Antra\Homework\C#\HW3&4\Lab3\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.csproj.CoreCompileInputs.cache
+D:\Antra\Homework\C#\HW3&4\Lab3\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.exe
+D:\Antra\Homework\C#\HW3&4\Lab3\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.deps.json
+D:\Antra\Homework\C#\HW3&4\Lab3\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.runtimeconfig.json
+D:\Antra\Homework\C#\HW3&4\Lab3\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.runtimeconfig.dev.json
+D:\Antra\Homework\C#\HW3&4\Lab3\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.dll
+D:\Antra\Homework\C#\HW3&4\Lab3\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.pdb
+D:\Antra\Homework\C#\HW3&4\Lab3\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.dll
+D:\Antra\Homework\C#\HW3&4\Lab3\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.pdb
+D:\Antra\Homework\C#\HW3&4\Lab3\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.genruntimeconfig.cache
